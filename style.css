@@ -13,3 +13,13 @@ font-family: "Caprasimo", serif;
 font-weight: 400;
 font-style: normal;
 }
+
+div{
+  width: 600px;
+  margin-left: 90;
+}
+
+#box{
+  background-color:  cadetblue;
+  padding: 20px;
+}
